@@ -1,5 +1,5 @@
 # IEEE_R5_Competition
-This code was created for the IEEE Competition on March 28 2026. The results can be viewed on the website here: https://thingspeak.mathworks.com/channels/3317303/private_show. 
+This code was created for the IEEE Competition on March 28 2026. The results can be viewed on the website here: https://thingspeak.mathworks.com/channels/3317303. 
 
 For the competition we used a esp32 micro that communicated over wifi to send data to ThingSpeak. We utilized a BME680 to gather atmospheriic readings such as Temperature, Humidity, Pressure, CO. Additionally we used a microphone to get data on the sound level (RMS) of the room and the average current draw over time. Unfortunately we were unable to get accurate readings for the average current draw.
 
